@@ -5,3 +5,6 @@ new files must be added now
 die nue thesei
 more compute power needed 
 not sure if fractal is fixed yet
+
+the new dia-rotoms were a bit wonky but they still passed the safety inspection so 
+were moving on with deployment en mass.
