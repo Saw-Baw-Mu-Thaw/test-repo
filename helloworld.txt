@@ -5,3 +5,5 @@ new files must be added now
 die nue thesei
 more compute power needed 
 not sure if fractal is fixed yet
+
+some new gizmo, especially the dia-rotom needs further safety testing
